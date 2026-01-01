@@ -1,4 +1,4 @@
-## Hi there 👋
+**anhinga-auto** is a github account for automation and AI agents for https://github.com/anhinga
 
 <!--
 **anhinga-auto/anhinga-auto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
